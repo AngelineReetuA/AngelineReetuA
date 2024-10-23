@@ -23,8 +23,8 @@
 <hr/>
 <h3><b><i>It is a stack burger!!</b></i></h3>
 <i><small>scouting to add more stuffin! he he</small></i>
-<img style="height:5; width:5" src="https://cdn2.iconfinder.com/data/icons/burger-element-food/500/nim138_36_fresh_top_bun_food_kitchen_bread-512.png" />
+<img style="height:5%; width:5%" src="https://cdn2.iconfinder.com/data/icons/burger-element-food/500/nim138_36_fresh_top_bun_food_kitchen_bread-512.png" />
 
 [![My Skills](https://skillicons.dev/icons?i=html,react,vue,express,css,vuetify,bootstrap,materialui,mongodb,mysql,git&perline=1)](https://skillicons.dev)
 
-<img style="height:5; width:5" src="https://cdn2.iconfinder.com/data/icons/burger-5/500/vab605_34_fresh_bun_burger_isometric_cartoon_logo_retro-512.png" />
+<img style="height:5%; width:5%" src="https://cdn2.iconfinder.com/data/icons/burger-5/500/vab605_34_fresh_bun_burger_isometric_cartoon_logo_retro-512.png" />

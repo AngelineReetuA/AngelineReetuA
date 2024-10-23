@@ -32,7 +32,7 @@
 
 <i><small>Databases and DevOps</small></i>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git)](https://skillicons.dev)
 
 <hr/>
 <h3><b><i>Contact?</b></i></h3>

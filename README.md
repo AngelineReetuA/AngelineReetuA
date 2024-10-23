@@ -37,13 +37,8 @@
 <hr/>
 <h3><b><i>Contact?</b></i></h3>
 <center>
-<a href="mailto:angelinereetu@gmail.com">
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-</a>
-<br/>
-<a href="www.linkedin.com/in/angeline-reetu-a-175b5221b">
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:angelinereetu@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/angeline-reetu-a-175b5221b)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</a>
 </center>

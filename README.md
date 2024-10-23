@@ -23,16 +23,8 @@
 <hr/>
 <h3><b><i>It is a stack burger!!</b></i></h3>
 <i><small>scouting to add more stuffin! he he</small></i>
-<img style="height:20; width:20" src="https://cdn2.iconfinder.com/data/icons/burger-element-food/500/nim138_36_fresh_top_bun_food_kitchen_bread-512.png" />
-<img src="./icons/HTML.svg" width="48">
-<img src="./icons/React-Dark.svg" width="48"> 
-<img src="./icons/VueJS-Dark.svg" width="48">
-<img src="./icons/ExpressJS-Dark.svg" width="48">
-<img src="./icons/CSS.svg" width="48">
-<img src="./icons/Vuetify-Dark.svg" width="48">
-<img src="./icons/Bootstrap.svg" width="48">
-<img src="./icons/MaterialUI-Dark.svg" width="48">
-<img src="./icons/MongoDB.svg" width="48">
-<img src="./icons/MySQL-Dark.svg" width="48">
-<img src="./icons/Git.svg" width="48">
-<img style="height:20; width:20" src="https://cdn2.iconfinder.com/data/icons/burger-5/500/vab605_34_fresh_bun_burger_isometric_cartoon_logo_retro-512.png" />
+<img style="height:5; width:5" src="https://cdn2.iconfinder.com/data/icons/burger-element-food/500/nim138_36_fresh_top_bun_food_kitchen_bread-512.png" />
+
+[![My Skills](https://skillicons.dev/icons?i=html,react,vue,express,css,vuetify,bootstrap,materialui,mongodb,mysql,git&perline=1)](https://skillicons.dev)
+
+<img style="height:5; width:5" src="https://cdn2.iconfinder.com/data/icons/burger-5/500/vab605_34_fresh_bun_burger_isometric_cartoon_logo_retro-512.png" />

@@ -2,7 +2,7 @@
 <hr/>
 <h3><b><i>Who am I?</b></i></h3>
 <h4>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=An+early+SWE+with+BIG+dreams" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Early+SWE+w+big+dreams)](https://git.io/typing-svg)" alt="Typing SVG" /></a>
 </h4>
 <hr/>
 <h3><b><i>What do I do?</b></i></h3>

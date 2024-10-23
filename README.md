@@ -16,6 +16,7 @@
 </ul>
 <hr/>
 <h3><b><i>How much and on what do I work?</b></i></h3>
+
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
 |<img src="https://github-readme-stats.vercel.app/api?username=angelinereetua&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinereetua&theme=aura&hide=CSS,HTML"/>|

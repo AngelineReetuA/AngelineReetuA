@@ -10,9 +10,9 @@
 <li>I am working as a SWE-I at Sysvine 👩‍💻</li>
 <li>I recently graduated with a MCA 👩‍🎓</li>
 <li>I enjoy learning new tech and playing around with them ✨</li>
-<li>Checkout my recent project - <a href="https://github.com/AngelineReetuA/github-analyser">Github Analyser</a>🔍</li>
-<li>I do all sorts of art for fun 🎨</li>
+<li>I do art for fun 🎨</li>
 <li>I recently started writing on <a href="https://medium.com/@angelinereetu">Medium</a>✍️</li>
+<li>Go snoop around and analyse a Github profile with The Github Analyser! - <a href="https://angelinereetua.github.io/github-analyser/"><b>The Ultimate Github Analyser</b></a>🔍</li>
 </ul>
 <hr/>
 <h3><b><i>How much do I work?</b></i></h3>
@@ -35,10 +35,11 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git)](https://skillicons.dev)
 
 <hr/>
-<h3><b><i>Contact?</b></i></h3>
-<center>
+
+<div style="background-color: #ffffff; justify-content: center;">
+Let's connect
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:angelinereetu@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/angeline-reetu-a-175b5221b)
 
-</center>
+</div>

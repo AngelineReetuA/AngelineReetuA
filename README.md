@@ -33,7 +33,6 @@
 <i><small>Databases and DevOps</small></i>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git)](https://skillicons.dev)
-[![Temp](https://vuejs.org/)](https://vuejs.org/)
 
 <hr/>
 

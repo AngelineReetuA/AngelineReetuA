@@ -8,16 +8,16 @@
 <h3><b><i>What do I do?</b></i></h3>
 <ul>
 <li>Software Engineer Level 1 at Sysvine 👩‍💻</li>
+  <li>
+    Built a GitHub profile analysis tool — 
+    <a href="https://angelinereetua.github.io/github-analyser/"><b>The Ultimate GitHub Analyser</b></a> 🔍
+  </li>
   <li>Frontend-focused engineer working with modern JS frameworks ⚛️</li>
   <li>Builds accessible, responsive, and user-friendly web apps ♿</li>
   <li>Backend-capable with hands-on experience in Django & Spring Boot 🔧</li>
   <li>Loves exploring new tech and building fun, sometimes pointless apps ✨</li>
   <li>Does art for fun 🎨</li>
   <li>Writes occasionally on <a href="https://medium.com/@angelinereetu">Medium</a> ✍️</li>
-  <li>
-    Built a GitHub profile analysis tool — 
-    <a href="https://angelinereetua.github.io/github-analyser/"><b>The Ultimate GitHub Analyser</b></a> 🔍
-  </li>
 </ul>
 <hr/>
 
@@ -45,6 +45,6 @@ WCAG • Semantic HTML • Responsive Design • UX-minded development
 Let's connect
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:angelinereetu@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/angeline-reetu-a-175b5221b)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([www.linkedin.com/in/angeline-reetu-a-175b5221b](https://www.linkedin.com/in/angeline-reetu-a-175b5221b))
 
 </div>

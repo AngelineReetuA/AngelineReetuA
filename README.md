@@ -7,32 +7,37 @@
 <hr/>
 <h3><b><i>What do I do?</b></i></h3>
 <ul>
-<li>I am working as a SWE-I at Sysvine 👩‍💻</li>
-<li>I recently graduated with a MCA 👩‍🎓</li>
-<li>I enjoy learning new tech and playing around with them ✨</li>
-<li>I do art for fun 🎨</li>
-<li>I recently started writing on <a href="https://medium.com/@angelinereetu">Medium</a>✍️</li>
-<li>Go snoop around and analyse a Github profile with The Github Analyser! - <a href="https://angelinereetua.github.io/github-analyser/"><b>The Ultimate Github Analyser</b></a>🔍</li>
+<li>Software Engineer Level 1 at Sysvine 👩‍💻</li>
+  <li>Frontend-focused engineer working with modern JS frameworks ⚛️</li>
+  <li>Builds accessible, responsive, and user-friendly web apps ♿</li>
+  <li>Backend-capable with hands-on experience in Django & Spring Boot 🔧</li>
+  <li>Loves exploring new tech and building fun, sometimes pointless apps ✨</li>
+  <li>Does art for fun 🎨</li>
+  <li>Writes occasionally on <a href="https://medium.com/@angelinereetu">Medium</a> ✍️</li>
+  <li>
+    Built a GitHub profile analysis tool — 
+    <a href="https://angelinereetua.github.io/github-analyser/"><b>The Ultimate GitHub Analyser</b></a> 🔍
+  </li>
 </ul>
 <hr/>
-<h3><b><i>How much do I work?</b></i></h3>
 
-|_**Github Stats**_|_**Top Languages**_|
-|-----------|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=angelinereetua&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinereetua&theme=aura&hide=CSS,HTML"/>|
-<hr/>
-<h3><b><i>On what do I work?</b></i></h3>
+<h3><b><i>On what do I work?</i></b></h3>
+
 <i><small>Frontend</small></i>
 
-[![My Skills](https://skillicons.dev/icons?i=html,react,vue,css,vuetify,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite)](https://skillicons.dev)
+
+<i><small>Accessibility & UI</small></i>
+
+WCAG • Semantic HTML • Responsive Design • UX-minded development
 
 <i><small>Backend</small></i>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,nodejs,express)](https://skillicons.dev)
 
-<i><small>Databases and DevOps</small></i>
+<i><small>Databases & Tools</small></i>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,github)](https://skillicons.dev)
 
 <hr/>
 

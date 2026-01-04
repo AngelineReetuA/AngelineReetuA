@@ -45,6 +45,6 @@ WCAG • Semantic HTML • Responsive Design • UX-minded development
 Let's connect
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:angelinereetu@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([www.linkedin.com/in/angeline-reetu-a-175b5221b](https://www.linkedin.com/in/angeline-reetu-a-175b5221b))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/angeline-reetu-a-175b5221b)
 
 </div>

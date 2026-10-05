@@ -1,50 +1,48 @@
-<h1>Hi , I'm Angeline Reetu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<hr/>
-<h3><b><i>Who am I?</b></i></h3>
-<h4>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Early+SWE+w+big+dreams" alt="Typing SVG" /></a>
-</h4>
-<hr/>
-<h3><b><i>What do I do?</b></i></h3>
-<ul>
-<li>Software Engineer Level 1 at Sysvine 👩‍💻</li>
-  <li>
-    Built a GitHub profile analysis tool — 
-    <a href="https://angelinereetua.github.io/github-analyser/"><b>The Ultimate GitHub Analyser</b></a> 🔍
-  </li>
-  <li>Frontend-focused engineer working with modern JS frameworks ⚛️</li>
-  <li>Builds accessible, responsive, and user-friendly web apps ♿</li>
-  <li>Backend-capable with hands-on experience in Django & Spring Boot 🔧</li>
-  <li>Loves exploring new tech and building fun, sometimes pointless apps ✨</li>
-  <li>Does art for fun 🎨</li>
-  <li>Writes occasionally on <a href="https://medium.com/@angelinereetu">Medium</a> ✍️</li>
-</ul>
-<hr/>
+# Hey, I'm Angeline 👋
 
-<h3><b><i>On what do I work?</i></b></h3>
+a growing Software Engineer in Chennai. I like building things that are useful, and occasionally things that are gloriously pointless. Both count.
 
-<i><small>Frontend</small></i>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite)](https://skillicons.dev)
+## What I'm up to
 
-<i><small>Accessibility & UI</small></i>
+- 🧩 Building web apps with **Vue**, **React** and **Python**
+- 🔐 Getting my feet wet with web and system design concepts
+- ♿ Making interfaces that are accessible, responsive, and pleasant to use
+- 💭 Focusing on thoughtfullness throughout the engineering process as that is what AI is missing
+- ✍️ I occasionally write on [Medium](https://medium.com/@angelinereetu)
+- 🎨 I do art
 
-WCAG • Semantic HTML • Responsive Design • UX-minded development
+---
 
-<i><small>Backend</small></i>
+## Project Milestones (I plan on adding more here)
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,nodejs,express)](https://skillicons.dev)
+**A lot of learning** - [Carpooling DApp](https://github.com/AngelineReetuA/carpoolingDApp) - a really cool AKA my final year project where I learnt so much about DApp, blockchain, metamask, bitcoin mining etc; and a project with really good intent too
 
-<i><small>Databases & Tools</small></i>
+**With good intent** - [The Ultimate GitHub Analyser](https://angelinereetua.github.io/github-analyser/) - a project where I learnt react, UI components, layout etc, did requirement analysis and improved my critical thinking
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,github)](https://skillicons.dev)
+**Close to my heart** - [Wordle](https://angelinereetua.github.io/wordle/) - the first ever project I did where I learnt JS, HTML and CSS and about deployment with github
 
-<hr/>
+---
 
-<div style="background-color: #ffffff; justify-content: center;">
-Let's connect
+## My stack
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:angelinereetu@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/angeline-reetu-a-175b5221b)
+**Frontend**
+React JS, Vue JS, JavaScript, HTML/CSS, MUI, ShadCN, Bootstrap, Vuetify, AntD
 
-</div>
+**Backend**
+Python (Django, DRF), REST API Design, Java (Spring Boot), Node JS
+
+**Database / Cloud**
+MySQL, MSSQL, PostgreSQL, AWS (EC2, ECS, CloudWatch)
+
+**Methodologies**
+Auth (JWT, OAuth, RBAC/ABAC/PBAC), State Management, Agile, AI-Assisted Dev (Cursor, Claude), Clean Code, Git
+
+---
+
+## Say hi
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angeline--reetu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeline-reetu)
+[![Email](https://img.shields.io/badge/Email-angelinereetu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelinereetu@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-@angelinereetu-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@angelinereetu)

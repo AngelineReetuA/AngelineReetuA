@@ -1,6 +1,6 @@
 # Hey, I'm Angeline 👋
 
-a growing Software Engineer in Chennai. I like building things that are useful, and occasionally things that are gloriously pointless. Both count.
+a growing Software Engineer in Chennai. i like building and engineering apps to solve human problems ;)
 
 ---
 
@@ -25,7 +25,7 @@ a growing Software Engineer in Chennai. I like building things that are useful, 
 
 ---
 
-## My stack
+## Stacks
 
 **Frontend**
 React JS, Vue JS, JavaScript, HTML/CSS, MUI, ShadCN, Bootstrap, Vuetify, AntD
